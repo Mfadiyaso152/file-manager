@@ -1,0 +1,6 @@
+{
+  "name": "File Manager",
+  "description": "منصة مبسطة وعصرية لتسهيل التعامل مع الملفات وإرشادك لأفضل الأدوات السريعة لمعالجة صورك، تغيير صيغ ملفاتك، وتوثيق مستنداتك.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
